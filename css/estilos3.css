@@ -1,0 +1,326 @@
+body{
+/* Inicio */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: linear-gradient(180deg, #B69880 0%, #7C6A5B 100%);}
+
+#reproduccion{
+    /* Rectangle 18 */
+
+position: absolute;
+width: 1920px;
+height: 142px;
+left: 0px;
+top: 938px;
+
+background: #F79466;
+}
+
+#lateral{
+   /* Rectangle 11 */
+
+width: 387px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #33312D;
+}
+
+#cuentav{
+    /* Vector */
+position: absolute;
+left: 2.45%;
+right: 93.96%;
+top: 6.3%;
+bottom: 87.31%;
+background: url(../Sources/inicio/Vector.png);
+/*#E6E5E5*/
+}
+
+#micuenta{
+/* Mi Cuenta */
+position: absolute;
+width: 141px;
+height: 43px;
+left: 138px;
+top: 91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+}
+
+#texto1{
+    /* Mi biblioteca */
+position: absolute;
+width: 177px;
+height: 43px;
+left: 50px;
+top: 224px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+
+}
+
+#texto2{
+    /* Sugerencias */
+position: absolute;
+width: 177px;
+height: 43px;
+left: 47px;
+top: 286px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+}
+
+#texto3{
+    /* Listas */
+position: absolute;
+width: 177px;
+height: 43px;
+left: 47px;
+top: 348px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+}
+
+#texto4{
+    /* Configuración */
+position: absolute;
+width: 177px;
+height: 43px;
+left: 47px;
+top: 803px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+}
+
+#texto5{
+    /* Cerrar Sesión */
+position: absolute;
+width: 177px;
+height: 43px;
+left: 47px;
+top: 865px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 33px;
+
+color: #FFFFFF;
+}
+
+#miniatura{
+    /* Rectangle 9 */
+position: absolute;
+width: 116px;
+height: 116px;
+left: 126px;
+top: 951px;
+
+background: url(../Sources/inicio/Rectangle\ 9reproduciendo.png);
+border-radius: 11px;
+}
+
+#barrar1{
+    position: absolute;
+    width: 194px;
+    height: 12px;
+    left: 543px;
+    top: 1011px;
+    
+    background: #B69880;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#seleccionr{
+    /* Ellipse 5 */
+position: absolute;
+width: 48px;
+height: 48px;
+left: 732px;
+top: 994px;
+
+background: url(../Sources/inicio/Ellipse\ 5seleccionr.png);
+
+}
+
+#barrar2{
+    /* Rectangle 23 */
+
+    position: absolute;
+    width: 883px;
+    height: 12px;
+    left: 778px;
+    top: 1011px;
+    
+    background: #5C493E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#cancion{
+    /* Ya Superame */
+position: absolute;
+width: 228px;
+height: 39px;
+left: 279px;
+top: 970px;
+
+font-family: 'Roboto';
+font-style: bold;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+
+#nombre{
+    /* Grupo Firme */
+position: absolute;
+width: 203px;
+height: 39px;
+left: 279px;
+top: 1015px;
+
+font-family: 'Roboto';
+font-style: light;
+font-weight: 300;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+#reproducir{
+    /* Vector */
+position: absolute;
+left: 88.28%;
+right: 5.94%;
+top: 88.52%;
+bottom: 1.2%;
+
+background: url(../Sources/inicio/Vectorreproducir.png);
+}
+
+#buscar{
+    /* Vector */
+position: absolute;
+left: 93.96%;
+right: 2.66%;
+top: 2.41%;
+bottom: 91.57%;
+
+background: url(../Sources/inicio/Vectorbuscar.png);
+}
+
+#discografia{
+    /* Discografía */
+position: absolute;
+width: 283px;
+height: 43px;
+left: 465px;
+top: 42px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+
+#album1{
+    /* Rectangle 25 */
+position: absolute;
+width: 318px;
+height: 317px;
+left: 464px;
+top: 142px;
+
+border-radius: 51px;
+}
+
+#album2{
+    /* Rectangle 19 */
+position: absolute;
+width: 318px;
+height: 317px;
+left: 834px;
+top: 142px;
+
+background: url(../Sources/albumes/Rectangle\ 19inedito.png);
+border-radius: 51px;
+}
+
+#album3{
+    /* Rectangle 20 */
+position: absolute;
+width: 317px;
+height: 317px;
+left: 1203px;
+top: 142px;
+
+background: url(../Sources/albumes/Rectangle\ 20vol2.png);
+border-radius: 51px;
+}
+
+#album4{
+    /* Rectangle 21 */
+position: absolute;
+width: 318px;
+height: 317px;
+left: 1571px;
+top: 142px;
+
+background: url(../Sources/albumes/Rectangle\ 21vol1.png);
+border-radius: 51px;
+}
+
+#grupoalbum{
+    /* Group 2 */
+position: absolute;
+width: 1424px;
+height: 317px;
+left: 465px;
+top: 540px;
+
+background:url(../Sources/albumes/Group\ 2grupo.png);
+
+}

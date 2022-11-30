@@ -1,0 +1,145 @@
+body{
+    /* Iniciar Sesión */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+background: #B69880;
+}
+
+#logo{
+/* FierroFy_Mesa de trabajo 1 1 */
+
+position: absolute;
+width: 612px;
+height: 459px;
+left: 654px;
+/*top: -82px;*/
+
+background: url(../Sources/iniciarsesion/fierrofy.png);
+}
+
+#correo{
+    /* Correo o usuario */
+
+position: absolute;
+width: 497px;
+height: 62px;
+left: 560px;
+top: 302px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+}
+
+#texto{
+/* Rectangle 24 */
+
+position: absolute;
+width: 799px;
+height: 57px;
+left: 560px;
+top: 364px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#contraseña{
+    /* Contraseña */
+
+position: absolute;
+width: 497px;
+height: 59px;
+left: 560px;
+top: 455px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+}
+
+#texto2{
+    /* Rectangle 25 */
+
+position: absolute;
+width: 799px;
+height: 57px;
+left: 560px;
+top: 519px;
+
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#boton{
+    position: absolute;
+width: 352px;
+height: 101px;
+left: 784px;
+top: 630px;
+
+background: #F79466;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 23px;
+
+align-content: center;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+color: #FFFFFF;
+}
+
+#olvidada{
+    /* ¿Contraseña olvidada? */
+
+position: absolute;
+width: 305px;
+height: 96px;
+left: 560px;
+top: 806px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+}
+
+#nueva{
+    /* Cuenta nueva */
+
+position: absolute;
+width: 248px;
+height: 96px;
+left: 1114px;
+top: 806px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 47px;
+
+color: #D9D9D9;
+}
+
+
